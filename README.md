@@ -1,4 +1,4 @@
-<h1 align="center">Manga-Miner</h1>
+<h1 align="center">Geddit</h1>
 
 [demo](https://cdn.upload.systems/uploads/jWymo2hq.gif) 
 
