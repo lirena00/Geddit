@@ -1,12 +1,12 @@
 {
-    "name": "Geddit",
-    "version": "1.0.0",
-    "description": "Latest Reddit Memes",
-    "manifest_version": 3,
-    "author": "Lirena Kiyuga",
-    "action":{
-        "default_popup": "index.html",
-        "default_icon": "files/reddit.png",
-        "default_title": "Geddit"
-    }
+  "name": "Geddit",
+  "version": "1.0.0",
+  "description": "Latest Reddit Memes",
+  "manifest_version": 3,
+  "author": "Lirena Kiyuga",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "images/reddit.png",
+    "default_title": "Geddit"
+  }
 }
