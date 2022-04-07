@@ -5,9 +5,7 @@
 ## Overview
 
 A Chrome Extension which shows you latest memes directly from reddit!
-## Prerequisites
 
-- [Python 3.6+](https://www.python.org/downloads/)
 
 ## Installation
 
@@ -28,7 +26,7 @@ Contributions are always welcome!
 
 - Clone the repository:
   ```bash
-  git clone https://github.com/LiReNa00/Manga-Miner.git
+  git clone https://github.com/LiReNa00/Geddit.git
   cd Manga-Miner
   ```
 - Create a new branch:
