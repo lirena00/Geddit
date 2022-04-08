@@ -27,7 +27,7 @@ Contributions are always welcome!
 - Clone the repository:
   ```bash
   git clone https://github.com/LiReNa00/Geddit.git
-  cd Manga-Miner
+  cd Geddit
   ```
 - Create a new branch:
   ```bash
